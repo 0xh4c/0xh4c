@@ -1,5 +1,5 @@
 <h1 align="center">Archan S</h1>
-<p align="center"><strong>Offensive Security • Binary Exploitation • Malware • Reverse Engineering • Hardware </strong></p>
+<p align="center"><strong>Offensive Security • Binary Exploitation • Malware • Hardware • Reverse Engineering </strong></p>
 
 ---
 
