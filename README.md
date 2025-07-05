@@ -60,12 +60,4 @@ My goal is to build offensive security skills strong enough to:
 
 ---
 
-###  Connect with Me
-
-- GitHub: https://github.com/0xh4c
-- Email: hack4speed@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/archansec 
-
----
-
 <p align="center"><em>"Attackers think in graphs. Defenders think in lists. I think in memory."</em></p>
