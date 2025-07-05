@@ -23,8 +23,9 @@ I’m not trying to rush through tools or checklists. I’m focused on long-term
 
 ---
 
-## My goal is to build offensive security skills strong enough to:
+## Vision
 
+My goal is to build offensive security skills strong enough to:
 - Reverse any binary  
 - Break insecure firmware  
 - Evade most defenses  
