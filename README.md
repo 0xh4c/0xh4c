@@ -41,7 +41,7 @@ I believe in:
 
 ---
 
-### 🛠 What I’m Building
+###  What I’m Building
 
 - A personal arsenal of exploit scripts, malware PoCs, and firmware teardown reports (private & public)  
 - A GitHub portfolio showcasing clean, well-documented low-level projects  
