@@ -62,9 +62,9 @@ My goal is to build offensive security skills strong enough to:
 
 ###  Connect with Me
 
-- GitHub: [github.com/yourusername](https://github.com/0xh4c)  
-- Email: [hack4speed@gmail.com]  
-- LinkedIn: [https://www.linkedin.com/in/archansec/]  
+- GitHub: github.com/yourusername](https://github.com/0xh4c
+- Email: hack4speed@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/archansec 
 
 ---
 
