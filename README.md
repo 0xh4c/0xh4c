@@ -3,7 +3,7 @@
 
 ---
 
-### 🧠 Who I Am
+###  Who I Am
 
 I'm a dedicated offensive security learner focused on understanding how systems fail — from firmware and bootloaders to memory corruption in userland applications.
 
@@ -11,7 +11,7 @@ Driven by curiosity and discipline, my mission is to study software and hardware
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 
 - **Low-Level Programming**  
   Writing clean C, analyzing compiled output, studying memory layout, pointer arithmetic, and systems behavior.
@@ -30,7 +30,7 @@ Driven by curiosity and discipline, my mission is to study software and hardware
 
 ---
 
-### 📚 Methodology
+###  Methodology
 
 I believe in:
 
@@ -41,7 +41,7 @@ I believe in:
 
 ---
 
-### 🛠️ What I’m Building
+### 🛠 What I’m Building
 
 - A personal arsenal of exploit scripts, malware PoCs, and firmware teardown reports (private & public)  
 - A GitHub portfolio showcasing clean, well-documented low-level projects  
@@ -49,7 +49,7 @@ I believe in:
 
 ---
 
-### 🧭 Vision
+###  Vision
 
 My goal is to build offensive security skills strong enough to:
 
@@ -60,11 +60,11 @@ My goal is to build offensive security skills strong enough to:
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- Email: [you@example.com]  
-- LinkedIn: [optional]  
+- GitHub: [github.com/yourusername](https://github.com/0xh4c)  
+- Email: [hack4speed@gmail.com]  
+- LinkedIn: [https://www.linkedin.com/in/archansec/]  
 
 ---
 
