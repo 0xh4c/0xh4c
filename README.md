@@ -23,10 +23,13 @@ I’m not trying to rush through tools or checklists. I’m focused on long-term
 
 ---
 
-## My Goal
+## My goal is to build offensive security skills strong enough to:
 
-To develop offensive capabilities grounded in real technical understanding — and grow into roles where I can build, break, and secure systems at their core.
+- Reverse any binary  
+- Break insecure firmware  
+- Evade most defenses  
+- Understand systems like an architect — and dismantle them like an attacker
 
 ---
 
-<p align="center"><em>"Progress isn’t loud. It’s consistent."</em></p>
+<p align="center"><em>"Attackers think in graphs. Defenders think in lists. I think in memory."</em></p>
