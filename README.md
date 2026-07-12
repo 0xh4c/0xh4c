@@ -1,19 +1,19 @@
 ```
 0x7fffffffdf00   +---------------------+
-                 | Buffer              |
+                 |       buf           |
                  | \x90 \x90 \x90 \x90 |
                  | \x90 \x90 \x90 \x90 |
                  | \x90 \x90 \x90 \x90 |
                  | \x90 \x90 \x90 \x90 |
                  +---------------------+
-0x7fffffffdf10   | Saved RBP           |
+0x7fffffffdf10   |        rbp          |
                  | \x90 \x90 \x90 \x90 |
                  | \x90 \x90 \x90 \x90 |
                  +---------------------+
-                 | Return Address      |
+                 |        ret          |
                  | 0x7fffffffdf20      |---+
                  +---------------------+   |
-0x7fffffffdf20   | Shellcode           |<--+
+0x7fffffffdf20   |     shell           |<--+
                  | \x48 \x31 \xf6 \x48 |
                  | \x31 \xd2 \x4d \x31 |
                  | \xc0 \x48 \xbb \x2f |
